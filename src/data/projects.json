@@ -1,0 +1,26 @@
+[
+  {
+    "title": "GDRIVE",
+    "imageSrc": "projects/project.png",
+    "description": "This Project is an Alternative of Google Drive. It is a cloud storage service that is focused on privacy and security.",
+    "skills": ["React", "Express", "Node","MongoDB","Mongoose"],
+    "demo": "https://google-drive-tvr0.onrender.com/",
+    "source": "https://github.com/sandeepyadav0007/google_drive"
+  },
+  {
+    "title": "Fruit-store",
+    "imageSrc": "projects/project.png",
+    "description": "Developing a vibrant, dynamic fruit store using ReactJS and TailwindCSS for a seamless, responsive, and visually appealing shopping experience.",
+    "skills": ["React","Tailwind CSS"],
+    "demo": "https://sandeep-fruitshop.netlify.app/",
+    "source": "https://github.com/sandeepyadav0007/fresh_fruits"
+  },
+  {
+    "title": "Foodies",
+    "imageSrc": "projects/project.png",
+    "description": "Foodies is a food ordering website that allows users to order their favorite food from their favorite restaurants.",
+    "skills": ["React", "Express", "Node","MongoDB","Mongoose"],
+    "demo": "https://github.com/sandeepyadav0007/My_Food_Webapp",
+    "source": "https://github.com/sandeepyadav0007/My_Food_Webapp"
+  }
+]
